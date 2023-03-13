@@ -14,7 +14,10 @@ class MainActivity : AppCompatActivity() {
         Fruit("Banana","Tom"),
         Fruit("Guava","Alex"),
         Fruit("Lemon","John"),
-        Fruit("Pear","Tim")
+        Fruit("Papaya","Jerry"),
+        Fruit("Grapes","Ben"),
+        Fruit("Orange","Chris")
+
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
